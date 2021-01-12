@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Renault ZE
-description: aaaaa
+description: PLugin d'interfaçage avec les Véhicules Renault ZE
 ---
 
 # {{ page.title }}
