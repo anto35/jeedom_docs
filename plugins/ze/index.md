@@ -4,6 +4,8 @@ title: Renault ZE
 description: aaaaa
 ---
 
+# {{ page.title }}
+
 # Présentation
 
 Ce plugin permet la communication entre votre véhicule Renault ZE et Jeedom.
