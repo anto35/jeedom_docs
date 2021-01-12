@@ -15,8 +15,16 @@ Plugin d'interfaçage avec les Véhicules Renault ZE.
 
 ## HomeCenter
 
-PLugin d'interfaçage avec les passerelles HomeCenter Fibaro
+Plugin d'interfaçage avec les passerelles HomeCenter Fibaro
 
 [Documentation](plugins/homecenter/index.html)
 
 [Changelog](plugins/homecenter/changelog.html)
+
+## Frisquet
+
+Plugin pour le pilotage des chaudières utilisant un module Frisquet Connect
+
+[Documentation](plugins/frisquet/index.html)
+
+[Changelog](plugins/frisquet/changelog.html)
