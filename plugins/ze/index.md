@@ -1,10 +1,8 @@
 ---
 layout: default
 title: Renault ZE
-description: PLugin d'interfaçage avec les Véhicules Renault ZE
+description: Plugin d'interfaçage avec les Véhicules Renault ZE
 ---
-
-# {{ page.title }}
 
 # Présentation
 
