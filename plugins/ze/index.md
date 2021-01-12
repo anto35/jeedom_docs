@@ -26,9 +26,7 @@ Dans la page de configuration de l'équipement, vous pouvez configurer :
 
 ## FAQ
 
-Si votre Zoé ne remonte plus d'infos ni dans l'appli Renault ni dans le plugin Jeedom, il se peut que votre abonnement soit échu. Pour renouveler, il faut vous rendre sur le portail MyRenault, vous connecter avec vos identifiants, dans le meu RLinkStore sélectionner l'item ZE Connect, et suivre la procédure d'installation dans la voiture. La prise en compte effective de l'abonnement dans l'application et la voiture demande 48 à 72 heures. 
-
-Les commandes sont disponibles ou non selon le type de véhicule. La localisation par exemple n'est disponible que sur les Zoé2. Selon les modèles de véhicules, il est également possible que les services renvoient des valeurs avec des unités différentes (sur le courant de charge par exemple, les Zoé 1 renvoient une valeur en W, les Zoé 2 en kW).
+Les commandes sont disponibles ou non selon le type de véhicule. La localisation n'est disponible que sur les Zoé2. Selon les modèles de véhicules, il est également possible que les services renvoient des valeurs avec des unités différentes (sur le courant de charge par exemple, les Zoé 1 renvoient une valeur en W, les Zoé 2 en kW).
 
 ## Troubleshooting
 
