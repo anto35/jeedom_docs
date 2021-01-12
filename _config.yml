@@ -1,6 +1,5 @@
+title: Jeedom
+description: Documentations de mes plugins Jeedom.
+show_downloads: false
+google_analytics:
 theme: jekyll-theme-cayman
-languages: ["fr"]
-exclude_from_localizations: ["assets", "CNAME"]
-defaultLang: fr
-languageNames:
-  fr: Français
