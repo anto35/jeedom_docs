@@ -7,6 +7,13 @@ title: toto
 
 ## ZE
 
-Ce plugin permet la communication entre votre véhicule Renault ZE et Jeedom.
+Plugin d'interfaçage avec les Véhicules Renault ZE.
+[Documentation](plugins/ze/index.html)
+[Changelog](plugins/ze/changelog.html)
 
-[Documentation](plugins/ze)
+
+## HomeCenter
+
+PLugin d'interfaçage avec les passerelles HomeCenter Fibaro
+[Documentation](plugins/homecenter/index.html)
+[Changelog](plugins/homecenter/changelog.html)
