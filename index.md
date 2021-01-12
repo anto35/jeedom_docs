@@ -1,4 +1,10 @@
-# Plugins Jeedom
+---
+layout: default
+title: Jeedom
+description: Documentations de mes plugins Jeedom
+---
+
+# Plugins
 
 ## ZE
 
